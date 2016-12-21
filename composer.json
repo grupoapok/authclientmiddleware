@@ -1,0 +1,18 @@
+{
+    "name": "apokdev/auth-client-middleware",
+    "description": "Middleware for apok security service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grupo Apok",
+            "email": "dev@grupoapok.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Apok\\Middleware\\": "src/"
+        }
+    },
+    "require": {}
+}
